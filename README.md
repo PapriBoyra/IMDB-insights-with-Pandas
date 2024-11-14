@@ -20,7 +20,7 @@ This project involves analyzing a dataset containing details of movies similar t
 - **Python**
 - **Pandas**: For data manipulation and analysis
 - **NumPy**: For fast array operations and numerical calculations, supporting data handling within Pandas
-- **Jupyter Notebook**: For interactive data analysis and reporting
+- **Google colab**: For interactive data analysis and reporting
 
 ## Dataset
 
